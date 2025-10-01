@@ -1,5 +1,5 @@
 # RehaxHub-zh
-外部汉化（不常更新）
+不常更新是因为感觉没Abysall Hub好用
 ~~~luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/asdqwefgg/RehaxHub-zh/main/Rehax%20Hub.lua"))()
 ~~~
