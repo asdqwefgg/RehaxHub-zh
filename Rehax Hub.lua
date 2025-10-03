@@ -67,6 +67,7 @@ local Translations = {
     ["Godmode Dropdown"] = "无敌下拉菜单",
     ["Godmode Range"] = "无敌范围",
     ["God Mode"] = "无敌",
+    ["Use Tools Anywhere"] = "可随处用工具",
     ["Anti Cheat Manipulation"] = "反作弊操作",
 
     ["Visuals"] = "视觉",
