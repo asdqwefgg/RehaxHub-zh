@@ -25,6 +25,7 @@ local Translations = {
     ["Camera"] = "相机",
     ["Fullbright"] = "全亮",
     ["No Camera Shake"] = "无相机抖动",
+    ["Viewmodel Offset"] = "视角模型偏移",
     ["Third Person"] = "第三人称",
     ["Spectate Entity"] = "观察实体",
     ["FOV"] = "视野",
@@ -91,6 +92,7 @@ local Translations = {
     ["Nanner Banana"] = "香蕉",
     ["Seek-Obstructions"] = "Seek-障碍物",
     ["Modifiers"] = "修饰符",
+    ["Death Farm"] = "死亡农场",
     ["Anti Fog"] = "防雾",
     ["Timer Lever"] = "计时杆",
 
