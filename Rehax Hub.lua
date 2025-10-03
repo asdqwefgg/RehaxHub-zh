@@ -53,6 +53,7 @@ local Translations = {
     ["Automation Library Code"] = "自动解锁挂锁",
     ["Breaker Box"] = "配电箱",
     ["Closet"] = "柜子",
+    ["Spam"] = "刷",
     ["Reach"] = "范围",
     ["Prompt Clip"] = "隔墙交互",
     ["Prompt Reach"] = "交互距离",
